@@ -16,6 +16,17 @@
 * сравнение с полным перебором;
 * оценка производительности.
 
+
+
+
+https://github.com/user-attachments/assets/7feda265-a606-48f9-8e02-b038fe4871b0
+
+
+
+https://github.com/user-attachments/assets/2d6fd994-ff34-4b7b-91d5-5b72814d0ed5
+
+
+
 ---
 
 ## Реализация индекса
